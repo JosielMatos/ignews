@@ -4,9 +4,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ig.news</title>
+        <title>Bem-vindo | ig.news</title>
       </Head>
-      <h1>Hello, Friend!</h1>
     </>
   );
 }
