@@ -1,9 +1,9 @@
-.container {
+.headerContainer {
   height: 5rem;
   border-bottom: 1px solid var(--gray-800);
 }
 
-.content {
+.headerContent {
   max-width: 1120px;
   height: 5rem;
   margin: 0 auto;
@@ -50,5 +50,9 @@
         background: var(--yellow-500);
       }
     }
+  }
+
+  button {
+    margin-left: auto;
   }
 }
