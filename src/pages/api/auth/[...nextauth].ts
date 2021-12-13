@@ -10,4 +10,5 @@ export default NextAuth({
       scope: "read:user",
     }),
   ],
+  secret: process.env.SECRET,
 });
