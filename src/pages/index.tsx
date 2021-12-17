@@ -27,7 +27,7 @@ export default function Home({ product }: HomeProps) {
         <section className={styles.hero}>
           <span>👋 Hey, welcome!</span>
           <h1>
-            News about the <span>React</span> world.
+            News about <br /> the <span>React</span> world.
           </h1>
           <p>
             Get access to all publications <br />
