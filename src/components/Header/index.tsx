@@ -11,7 +11,7 @@ export function Header() {
         <Image src='/images/logo.svg' width={110} height={31} alt='ig.news' />
         <nav>
           <Link href='/'>
-            <a className={styles.active} href='#'>
+            <a className={styles.active}>
               Home
             </a>
           </Link>
